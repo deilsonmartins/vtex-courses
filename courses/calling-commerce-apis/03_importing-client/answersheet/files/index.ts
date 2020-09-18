@@ -1,7 +1,7 @@
 //node/Clients/index.ts
 
 import { IOClients } from '@vtex/api'
-import { Catalog } from '@vtex/Clients'
+import { Catalog } from '@vtex/clients'
 
 import Status from './status'
 
